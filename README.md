@@ -2,8 +2,8 @@
 
 My name is Stephen Kusler and I'm a Systems Administrator and Software Developer with 10+ years of experience.
 
-- 🔭 I’m currently working on an AI powered TCG POS system with a go-live date targetting end of July 2026.
-- 🌱 My focus project has led me to spend a lot of time learning Tensorflow and .NET MAUI.
+- 🔭 I’m currently working on an AI powered TCG POS/ERP system with a go-live date targetting end of July 2026.
+- 🌱 My focus project has led me to spend a lot of time learning .NET MAUI, Tensorflow and CI/CD Automation.
 
 ### 🔒 Private Projects
 **Purple Bear Point-of-Sale (AI Powered POS & ERP System for Small to Medium sized TCG Vendors):**
