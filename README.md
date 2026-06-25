@@ -10,4 +10,4 @@ My name is Stephen Kusler and I'm a Systems Administrator and Software Developer
   * Built with .NET MAUI, Python, and T-SQL.
   * Project is being managed through Linear.app for milestone and issue tracking.
   * *Note to Recruiters/Interviewers:* This repository is currently private. 
-  * If you would like view-only access to audit the codebase, please [stephen-kusler](mailto:stephen.kusler@gmail.com) or open a quick issue, and I will instantly grant you Read access!
+  * If you would like view-only access to audit the codebase, please email [stephen-kusler](mailto:stephen.kusler@gmail.com) or open a quick issue, and I will instantly grant you Read access!
