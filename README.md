@@ -7,7 +7,7 @@ My name is Stephen Kusler and I'm a Systems Administrator and Software Developer
 
 ### 🔒 Private Projects
 **Purple Bear Point-of-Sale (AI Powered POS & ERP System for Small to Medium sized TCG Vendors):**
-  * Built with .NET MAUI for Cross-Platform Front-End, C# Back-End, Python for Tensorflow, and T-SQL for Data-Access-Layer.
+  * Built with .NET MAUI for Cross-Platform Front-End, C# Back-End, Python in WSL for CUDA enabled model training, and T-SQL for Data-Access-Layer.
   * Agentic AI orchestration running locally through Aider using Ollama/Qwen/Qwen2.5-Coder-7B-Instruct model.
   * CI/CD Pipeline using Jenkins and Github Build Actions.
   * Automated Testing using Appium with NUnit(.NET MAUI) and RestSharp with xUnit(API).
